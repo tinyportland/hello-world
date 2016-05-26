@@ -1,2 +1,3 @@
 # hello-world
 In the beginning...
+There was a man named Pierre. He wanted to learn how to code after years of being in IT. 
